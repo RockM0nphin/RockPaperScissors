@@ -1,0 +1,37 @@
+
+#btns{
+    text-align: center;
+}
+
+.bottone{
+    background-color: antiquewhite;
+}
+
+table{
+    background-color: darkgray;
+    text-align: center;
+    margin-left: 130px;
+    padding: 10px;
+    padding-bottom: 40px;
+    width:200px;
+    font-size: large;
+}
+
+span{
+    text-align: center;
+    
+}
+
+#playerPoints{
+    color:greenyellow;
+    
+}
+
+#computerPoints{
+    color:red;
+}
+
+#showWinner{
+    text-align: center;
+    font-size: 22px;
+}
